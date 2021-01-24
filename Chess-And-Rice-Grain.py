@@ -1,6 +1,3 @@
-
-clear
-
 print ("Schachfeld Nummer 1:")
 print ("1 Reiskorn")
 print ("Die Summe an Reiskörnern ist: 1")
